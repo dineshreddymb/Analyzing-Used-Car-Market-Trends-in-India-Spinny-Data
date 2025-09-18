@@ -7,11 +7,11 @@ The goal was to analyze how factors like brand, fuel type, transmission, kilomet
 
 🛠️ Tech Stack
 --------------------------------
-Python
-Selenium (for automated web scraping)
-BeautifulSoup (HTML parsing)
-Pandas / NumPy (data cleaning & analysis)
-Matplotlib / Seaborn (visualizations)
+- Python
+- Selenium (for automated web scraping)
+- BeautifulSoup (HTML parsing)
+- Pandas / NumPy (data cleaning & analysis)
+- Matplotlib / Seaborn (visualizations)
 
 📊 Steps in the Project
 --------------------------------
