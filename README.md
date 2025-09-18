@@ -27,37 +27,37 @@ The goal was to analyze how factors like brand, fuel type, transmission, kilomet
 * EMI (if available)
 Data Cleaning
 -------------------
-*Converted price strings (like ₹4.92 Lakh) into numerical values.
-*Removed duplicates & missing values.
-*Standardized features (Fuel, Transmission, KMS).
-*Exploratory Data Analysis (EDA)
-*Most popular car brands & models.
-*City-wise car distribution.
-*Fuel type vs price trends.
-*Manual vs Automatic transmission analysis.
-*Top expensive cars & most affordable cars.
-*Kilometers driven vs price relation.
+- Converted price strings (like ₹4.92 Lakh) into numerical values.
+- Removed duplicates & missing values.
+- Standardized features (Fuel, Transmission, KMS).
+- Exploratory Data Analysis (EDA)
+- Most popular car brands & models.
+- City-wise car distribution.
+- Fuel type vs price trends.
+- Manual vs Automatic transmission analysis.
+- Top expensive cars & most affordable cars.
+- Kilometers driven vs price relation.
 
 Insights
 --------------------
-*🚘 Most listed brands: (e.g., Maruti, Hyundai, Honda).
-*📍 City with max listings: (e.g., Delhi NCR).
-*⛽ Fuel Trend: Petrol cars dominate, but Diesel & EVs are rising.*
-*⚙️ Transmission: Manual cars are more common, but Automatics are priced higher.
-*💰 Price Range: Majority of used cars fall between ₹3–10 Lakh.
+1. 🚘 Most listed brands: (e.g., Maruti, Hyundai, Honda).
+2. 📍 City with max listings: (e.g., Delhi NCR).
+3. ⛽ Fuel Trend: Petrol cars dominate, but Diesel & EVs are rising.*
+4. ⚙️ Transmission: Manual cars are more common, but Automatics are priced higher.
+5. 💰 Price Range: Majority of used cars fall between ₹3–10 Lakh.
 
 📈 Visualizations
 ----------------------
-*Some of the key charts created:
-*Bar plots of car counts by brand and city.
-*Distribution of fuel type and transmission.
-*Scatter plots of price vs kilometers driven.
-*Boxplots of price distribution across cities.
+- Some of the key charts created:
+- Bar plots of car counts by brand and city.
+- Distribution of fuel type and transmission.
+- Scatter plots of price vs kilometers driven.
+- Boxplots of price distribution across cities.
 
 📂 Files
 ----------------------
-*Project spinny.ipynb → Main Jupyter Notebook with scraping, cleaning & EDA.
-*spinny_project.csv → Scraped dataset of used cars.
+1. Project spinny.ipynb → Main Jupyter Notebook with scraping, cleaning & EDA.
+2. spinny_project.csv → Scraped dataset of used cars.
 
 🚀 Future Work
 -----------------------
