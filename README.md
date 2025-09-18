@@ -9,22 +9,22 @@ The goal was to analyze how factors like brand, fuel type, transmission, kilomet
 --------------------------------
 Python
 Selenium (for automated web scraping)
-*BeautifulSoup (HTML parsing)
-*Pandas / NumPy (data cleaning & analysis)
-*Matplotlib / Seaborn (visualizations)
+BeautifulSoup (HTML parsing)
+Pandas / NumPy (data cleaning & analysis)
+Matplotlib / Seaborn (visualizations)
 
 📊 Steps in the Project
 --------------------------------
-*Web Scraping
-*Scraped car listings from Spinny for multiple cities (Delhi, Bangalore, Mumbai, Hyderabad, Chennai, Pune, Kolkata, etc.).
-*Extracted details:
-*Car Name
-*Price
-*Kilometers Driven
-*Fuel Type
-*Transmission
-*City & Location
-*EMI (if available)
+* Web Scraping
+* Scraped car listings from Spinny for multiple cities (Delhi, Bangalore, Mumbai, Hyderabad, Chennai, Pune, Kolkata, etc.).
+* Extracted details:
+* Car Name
+* Price
+* Kilometers Driven
+* Fuel Type
+* Transmission
+* City & Location
+* EMI (if available)
 Data Cleaning
 -------------------
 *Converted price strings (like ₹4.92 Lakh) into numerical values.
