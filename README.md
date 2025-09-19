@@ -62,8 +62,21 @@ Insights
 🚀 Future Work
 -----------------------
 
-Build a price prediction model (ML) for used cars.
+- Build a price prediction model (ML) for used cars.
+- 
+- Compare Spinny vs Cars24 vs OLX Autos datasets.
+- 
+- Deploy as a dashboard in Power BI / Streamlit.
 
-Compare Spinny vs Cars24 vs OLX Autos datasets.
-
-Deploy as a dashboard in Power BI / Streamlit.
+📜 How to Run
+----------------------------
+- Clone the repository.
+- 
+- Install required dependencies:
+- 
+- pip install -r requirements.txt
+- 
+- 
+- Run the scraping script to generate raw data.
+- 
+- Open the notebook to clean data and perform EDA.
